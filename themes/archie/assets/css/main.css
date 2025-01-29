@@ -1,7 +1,7 @@
 /* Markdown */
 :root{
 --maincolor: red;
---bordercl:rebeccapurple;
+--bordercl:dodgerblue;
 --callouctcolor:dodgerblue;
 --hovercolor:navy;
 --darkMaincolor: dodgerblue;
@@ -190,7 +190,7 @@ h6::before { color: var(--maincolor); content: '###### '; }
 footer {
   display: flex;
   align-items: center;
-  border-top: 0.4rem dotted var(--bordercl);
+  border-top: 0.1rem solid var(--bordercl);
   padding: 2rem 0rem;
   margin-top: 2rem;
 }
@@ -277,7 +277,7 @@ display: flex;
 justify-content: space-between;
 }
 .tags li::before{
-  content: "🏷 ";
+  content: "> ";
 }
 .tags a{
   border-bottom: 3px solid var(--maincolor); 
