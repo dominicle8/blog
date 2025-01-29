@@ -1,0 +1,177 @@
+{
+  "main": {
+    "id": "a2248f7427887544",
+    "type": "split",
+    "children": [
+      {
+        "id": "01908a387cdf0115",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9d2a924e4d891826",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "713578bb47b6d372",
+    "type": "split",
+    "children": [
+      {
+        "id": "e28a5a7030b28d8c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "91aca507482015b2",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "ce8c58ef096ba6a8",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "9c34914b8a62b096",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "8545b3041ec8edb9",
+    "type": "split",
+    "children": [
+      {
+        "id": "24820586059e2eaa",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1c9c15be8f580321",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "3abad9930835c4ee",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "d3c0ac4b03f09ead",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "c9337525ffacf389",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {},
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "9d2a924e4d891826",
+  "lastOpenFiles": [
+    "blog/tsconfig.json",
+    "blog/src/static/images/seth_laugh.jpg",
+    "blog/src/static/audio/seth.mp3",
+    "blog/src/static/images",
+    "blog/src/static/audio",
+    "blog/src/static",
+    "blog/src/setupTests.ts",
+    "blog/src/reportWebVitals.ts",
+    "blog/src/react-app-env.d.ts",
+    "blog/src/logo.svg",
+    "blog/src/index.tsx",
+    "blog/src/index.css",
+    "blog/src/custom.scss",
+    "blog/public/logo512.png",
+    "blog/public/logo192.png",
+    "blog/README.md",
+    "Welcome.md"
+  ]
+}
