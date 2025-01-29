@@ -21,7 +21,7 @@ paginate=5 # articles per page
 
 [[menu.main]]
 name = "Home"
-url = "/blog"
+url = "/"
 weight = 1
 
 [[menu.main]]
