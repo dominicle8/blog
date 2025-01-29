@@ -1,7 +1,7 @@
 ---
 title: Init
 description: First post
-date: 29 Jan 2025
+date: 2025-01-29
 tldr: Some tldr
 tags:
   - misc
